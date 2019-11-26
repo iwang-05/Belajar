@@ -3,4 +3,4 @@ Belajar
 
 Belajar Github
 
-Belajar Teruss
+Tugas
